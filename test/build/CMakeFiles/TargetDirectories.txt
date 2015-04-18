@@ -1,0 +1,1 @@
+/home/andrey/Programming/GitHub/appathon/test/build/CMakeFiles/test.dir
